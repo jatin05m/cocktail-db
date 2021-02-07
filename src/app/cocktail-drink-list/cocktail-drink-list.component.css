@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.container {
+width: 100%;
+}
+
+.filter-item {
+display: flex;
+width: 100%;
+padding-bottom: 1.0vh;
+font-family: 'Roboto', sans-serif;
+font-size: 0.9vw;
+color: darkslategray;
+}
+
+input.checkboxes{
+width: 20px;
+height: 20px;
+}
+
+.input {
+margin-right: 0.5vw;
+}
+
+.filter-button {
+width: 100%;
+}
+
+
+button {
+width: 100%;
+height: 5vh;
+border-radius: 10px;
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 1vw;
+color: #f4f4f2;
+background: #cb202d;
+text-transform: uppercase;
+}
+
+.btn {
+cursor: pointer;
+}
