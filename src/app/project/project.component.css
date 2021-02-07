@@ -45,4 +45,11 @@
         .filter {
             width: 18vh;
         }
+        .content {
+            width: 75vw;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-left: 0px;
+            }
     }
