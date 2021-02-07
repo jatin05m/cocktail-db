@@ -39,3 +39,9 @@
     .visible {
     visibility: visible;
     }
+
+    @media (max-width: 991px){
+        .filter {
+            width: 16vh;
+        }
+    }

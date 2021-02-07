@@ -21,3 +21,12 @@ img {
 max-width: auto;
 max-height: 3vw;
 }
+
+@media (max-width: 991px){
+    .header-text {
+        font-size: 8.3vw;
+    }
+    img{
+        max-height: 11vw;
+    }
+}

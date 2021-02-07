@@ -25,6 +25,25 @@ margin-right: 0.5vw;
 .filter-button {
 width: 100%;
 }
+@media (max-width: 991px){
+    input.checkboxes {
+        width: 11px;
+        height: 18px;
+    }
+    .btn{
+      font-size: 3.5vw;  
+      width: 91%;
+    height: 4vh;
+    margin-left: 4px;
+    }
+    .filter-item {
+        font-size: 2.5vw;
+    }
+    h6 {
+        font: 400 calc(19px * 0.63)/20px Roboto, "Helvetica Neue", sans-serif;
+        margin: 4px 2px 12px 10px;
+    }
+}
 
 
 button {
