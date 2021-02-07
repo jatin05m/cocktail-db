@@ -22,7 +22,7 @@
     
     .filter-bar {
     position: fixed;
-    margin-top: 5vh;
+    margin-top: 3vh;
     }
     
     .content {
@@ -30,6 +30,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-left: 23px;
     }
     
     .hidden {
@@ -42,6 +43,6 @@
 
     @media (max-width: 991px){
         .filter {
-            width: 16vh;
+            width: 18vh;
         }
     }

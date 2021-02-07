@@ -31,18 +31,23 @@ width: 100%;
         height: 18px;
     }
     .btn{
-      font-size: 3.5vw;  
-      width: 91%;
-    height: 4vh;
-    margin-left: 4px;
+        font-size: 3.5vw;
+        width: 86%;
+        height: 4vh;
+        margin-left: 7px;
     }
     .filter-item {
         font-size: 2.5vw;
+        padding-bottom: 0vh;
+        margin-left: 7px;
+        margin-right: 7px;
     }
-    h6 {
-        font: 400 calc(19px * 0.63)/20px Roboto, "Helvetica Neue", sans-serif;
+    h4 {
+        font: 400 13px/24px Roboto, "Helvetica Neue", sans-serif;
+        letter-spacing: normal;
         margin: 4px 2px 12px 10px;
     }
+    
 }
 
 
